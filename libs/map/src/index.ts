@@ -1,0 +1,1 @@
+export * from './components/osd-map/osd-map';
